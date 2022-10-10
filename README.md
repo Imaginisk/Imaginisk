@@ -4,9 +4,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/imaginisck/)
 
 
- ![Imaginisk GitHub stats](https://github-readme-stats.vercel.app/api?username=Imaginisk&show_icons=true&theme=radical)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imaginisk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<div>
+ <img align="center" height="180em"  src="https://github-readme-stats.vercel.app/api?username=Imaginisk&show_icons=true&theme=tokyonight" >
+ <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imaginisk&layout=compact&theme=tokyonight")](https://github.com/anuraghazra/github-readme-stats">
+</div>
 
 
 ## Tecnologias que uso no meu dia 
