@@ -2,7 +2,9 @@
 [![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-melo-771aa1227/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/imaginisck/)
 
-![Imaginisk GitHub stats](https://github-readme-stats.vercel.app/api?username=Imaginisk&show_icons=true&theme=radical)
+
+ ![Imaginisk GitHub stats](https://github-readme-stats.vercel.app/api?username=Imaginisk&show_icons=true&theme=radical)
+ 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imaginisk&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
